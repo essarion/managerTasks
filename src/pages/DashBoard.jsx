@@ -3,7 +3,9 @@ import React from "react";
 
 function DashBoard() {
     return (
-        <div></div>
+        <div>
+            <p></p>
+        </div>
     )
 }
 
